@@ -1,4 +1,4 @@
-package com.robertonobre.spring_security.model;
+package com.robertonobre.spring_security.model.audit;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import org.springframework.data.annotation.CreatedDate;
